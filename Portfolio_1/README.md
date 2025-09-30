@@ -19,6 +19,8 @@ A modern, responsive portfolio website built with HTML, CSS, JavaScript, and Boo
 ## Deployment
 This is a static website that can be deployed to any static hosting service like Vercel, Netlify, or GitHub Pages.
 
+For detailed deployment instructions, especially for Vercel, please refer to [DEPLOYMENT-GUIDE.md](DEPLOYMENT-GUIDE.md)
+
 ### Deploy to Vercel
 1. Install Vercel CLI: `npm install -g vercel`
 2. Navigate to this project directory in terminal
