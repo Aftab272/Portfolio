@@ -24,6 +24,8 @@ body {
     line-height: 1.6;
     color: var(--dark-color);
     overflow-x: hidden;
+    background: linear-gradient(135deg, #f0f4ff, #e6f7ff, #fff0f5);
+    background-attachment: fixed;
 }
 
 .section-title h2 {
