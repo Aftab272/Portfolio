@@ -1,4 +1,4 @@
-# Muhammad Hasnain - Portfolio Website
+# Muhammad Aftab Akram - Portfolio Website
 
 A modern, responsive portfolio website built with React, Vite, and Tailwind CSS. This portfolio showcases my skills, projects, and experience as a MERN Stack Developer.
 
@@ -95,14 +95,14 @@ To customize the portfolio for your own use:
 
 ## 📧 Contact Information
 
-- **Name**: Muhammad Hasnain
-- **Email**: hasnainwasli17@gmail.com
-- **Phone**: +92 312 6430166
-- **GitHub**: [github.com/hasnain17576](https://github.com/hasnain17576)
+- **Name**: Muhammad Aftab Akram
+- **Email**: ranaaftabakram982@gmail.com
+- **Phone**: +92 3087917014
+- **GitHub**: (https://github.com/Aftab272)
 
 ## 🎓 Education
 
-- **Matric**: Hassan Public High School (Completed)
+- **Matric**: Govt  Public High School Dokota (Completed)
 - **Current**: BS Software Engineering (BSSE), COMSATS University (3rd Semester)
 
 ## 📄 License
@@ -111,4 +111,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Built with ❤️ by Muhammad Hasnain**
+**Built with ❤️ by Muhammad Aftab Akram**
